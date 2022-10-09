@@ -1,0 +1,30 @@
+.conimg{
+    text-align: center;
+    padding-top: -200px;
+}
+.cd{
+    margin-top: 10px;
+}
+.dec li{
+    list-style-type: none;
+   
+}
+.dec li a{
+    text-decoration: none;
+    color: white;
+}
+.foter{
+    padding-top: 50px;
+    background-color: rgba(5, 4, 4, 0.685);
+    padding-bottom: 50px;
+
+}
+.fo{
+    background-color: rgba(255, 255, 255, 0.685);
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+hr{
+    border: 2px solid black;
+}
